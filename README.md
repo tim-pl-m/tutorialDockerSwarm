@@ -16,3 +16,8 @@ his blog: http://jpetazzo.github.io
 (some articles of his blog are amazing! especially the one of 15/15 and 06/18)
 
 http://www.play-with-docker.com/
+
+ideas:
+- [ ]  docker-registry
+- [ ]  github-examples
+- [ ]  aws-anbindung
