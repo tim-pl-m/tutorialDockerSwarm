@@ -1,7 +1,8 @@
 # tutorialDockerSwarm
 Tutorial for Docker Swarm
 
-#TODO add terminal code to create a minimal docker swarm cluster
+TODOs:
+- [ ]  add terminal code to create a minimal docker swarm cluster
 
 sources:
 https://container.training/swarm-selfpaced.yml.html
